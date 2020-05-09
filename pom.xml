@@ -32,7 +32,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <!-- This is main class of your program which will be executed-->
-                            <mainClass>com.contactsunny.poc.App</mainClass>
+                            <mainClass>com.contactsunny.poc.hashmap_iteration_poc.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
